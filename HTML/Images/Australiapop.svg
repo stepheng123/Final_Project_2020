@@ -1,0 +1,290 @@
+﻿<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="600px" width="800px" version="1.1" preserveAspectRatio="none" viewBox="0 0 800 600">
+<title>Australia Population Pyramid for 2017</title>
+<desc>Translations are included for Arabic, Basque, Bulgarian, Chinese, Croatian, Dutch, English, Finnish, French, Georgian, German, Italian, Japanese, Korean, Lithuanian, Macedonian, Mongolian, Norwegian, Polish, Portuguese, Russian, Slovenian, Spanish, Swedish, and Vietnamese. Other languages can easily be added.</desc>
+<!-- background -->
+<rect width="100%" fill="#fff" height="100%"/>
+<!--
+     ORDER OF TRANSFORMATIONS:
+     (1)     Shift origin from (x, y) to (0, 0) (e.g., from [2004, 0] to [0, 0])
+     (2)     Scale as appropriate
+     (3)     Shift back to viewport's origin
+     (4)     Shift away from edge as desired
+     In working out your calculations, opt for a number that divides nicely into 100s (e.g., 1, 2, 2.5, 5, 10, 20, 25, etc.)
+     CALCULATIONS:
+     Horizontal     =     Width/Range
+                    =     800/ 2015-1995
+                    ~      40
+     Vertical     =     [-1 * Height]/Range
+                    =     -400 / (13 - 6)
+                    ~     -60
+     Population values are in hundred thousands (1000s divided by 100)
+-->
+
+<g font-family="Verdana, Tahoma, sans-serif" transform="translate(25 -35)" text-anchor="middle">
+<!-- Border -->
+          <path style="fill:#f4f4f4; stroke:grey; stroke-width:1" d="
+          m -10 40 h 775 v 590 h -775 v -590"/>
+
+<!-- The lines in the graph are scaled significantly. Make sure the stroke width is set appropriately. -->
+<!-- The ratio between the x/y scaling needs to be between 0.25 and 2.5. If not, multiply or divide the values by 10 until it is. -->
+
+     <g stroke="#333" transform="translate(46 420) scale(32 -22) translate(-19)">
+
+<!-- Male -->
+      <g transform="translate(28 -7) scale(-1 1)" stroke-width="0.03">
+          <path style="fill:lightgrey; stroke-width:0.03;" d="
+          m 0 1 h 10 v 21 h -10 v -21"/>
+          <path d="m 0 1 v -0.5"/>
+          <path d="m 2 1 v -0.5"/>
+          <path d="m 4 1 v -0.5"/>
+          <path d="m 6 1 v -0.5"/>
+          <path d="m 8 1 v -0.5"/>
+
+          <g style="fill:lightblue; stroke:black;" stroke-width="0.03">
+               <path d="m 0 1 h 8.07666 v 1 h -8.07666 v -1"/>
+               <path d="m 0 2 h 8.13282 v 1 h -8.13282 v -1"/>
+               <path d="m 0 3 h 7.64441 v 1 h -7.64441 v -1"/>
+               <path d="m 0 4 h 7.56185 v 1 h -7.56185 v -1"/>
+               <path d="m 0 5 h 8.40281 v 1 h -8.40281 v -1"/>
+               <path d="m 0 6 h 9.01443 v 1 h -9.01443 v -1"/>
+               <path d="m 0 7 h 9.10732 v 1 h -9.10732 v -1"/>
+               <path d="m 0 8 h 8.26729 v 1 h -8.26729 v -1"/>
+               <path d="m 0 9 h 8.13704 v 1 h -8.13704 v -1"/>
+               <path d="m 0 10 h 7.93279 v 1 h -7.93279 v -1"/>
+               <path d="m 0 11 h 7.76748 v 1 h -7.76748 v -1"/>
+               <path d="m 0 12 h 7.42316 v 1 h -7.42316 v -1"/>
+               <path d="m 0 13 h 6.53384 v 1 h -6.53384 v -1"/>
+               <path d="m 0 14 h 5.88500 v 1 h -5.88500 v -1"/>
+               <path d="m 0 15 h 4.61094 v 1 h -4.61094 v -1"/>
+               <path d="m 0 16 h 3.19895 v 1 h -3.19895 v -1"/>
+               <path d="m 0 17 h 2.17104 v 1 h -2.17104 v -1"/>
+               <path d="m 0 18 h 1.27426 v 1 h -1.27426 v -1"/>
+               <path d="m 0 19 h 0.53763 v 1 h -0.53763 v -1"/>
+               <path d="m 0 20 h 0.11771 v 1 h -0.11771 v -1"/>
+               <path d="m 0 21 h 0.00848 v 1 h -0.00848 v -1"/>
+          </g>
+      </g>
+<!-- Female -->
+      <g transform="translate(30.7 -7) scale(1 1)" stroke-width="0.02">
+          <path style="fill:lightgrey; stroke-width:0.03;" d="
+          m 0 1 h 10 v 21 h -10 v -21"/>
+          <path d="m 0 1 v -0.5"/>
+          <path d="m 2 1 v -0.5"/>
+          <path d="m 4 1 v -0.5"/>
+          <path d="m 6 1 v -0.5"/>
+          <path d="m 8 1 v -0.5"/>
+
+          <g transform="translate(0 0)" style="fill:pink; stroke:black;" stroke-width="0.02">
+               <path d="m 0 1 h 7.66438 v 1 h -7.66438 v -1"/>
+               <path d="m 0 2 h 7.71538 v 1 h -7.71538 v -1"/>
+               <path d="m 0 3 h 7.25261 v 1 h -7.25261 v -1"/>
+               <path d="m 0 4 h 7.23521 v 1 h -7.23521 v -1"/>
+               <path d="m 0 5 h 7.97039 v 1 h -7.97039 v -1"/>
+               <path d="m 0 6 h 8.77303 v 1 h -8.77303 v -1"/>
+               <path d="m 0 7 h 9.05638 v 1 h -9.05638 v -1"/>
+               <path d="m 0 8 h 8.28103 v 1 h -8.28103 v -1"/>
+               <path d="m 0 9 h 8.23303 v 1 h -8.23303 v -1"/>
+               <path d="m 0 10 h 8.10103 v 1 h -8.10103 v -1"/>
+               <path d="m 0 11 h 7.88950 v 1 h -7.88950 v -1"/>
+               <path d="m 0 12 h 7.62795 v 1 h -7.62795 v -1"/>
+               <path d="m 0 13 h 6.79576 v 1 h -6.79576 v -1"/>
+               <path d="m 0 14 h 6.09316 v 1 h -6.09316 v -1"/>
+               <path d="m 0 15 h 4.81376 v 1 h -4.81376 v -1"/>
+               <path d="m 0 16 h 3.45542 v 1 h -3.45542 v -1"/>
+               <path d="m 0 17 h 2.61066 v 1 h -2.61066 v -1"/>
+               <path d="m 0 18 h 1.83534 v 1 h -1.83534 v -1"/>
+               <path d="m 0 19 h 0.97217 v 1 h -0.97217 v -1"/>
+               <path d="m 0 20 h 0.28895 v 1 h -0.28895 v -1"/>
+               <path d="m 0 21 h 0.03454 v 1 h -0.03454 v -1"/>
+          </g>
+      </g>
+
+     </g>
+<!-- Text can't be scaled or it goes strange. Its location must be calculated directly. -->
+
+<!-- Title -->
+     <g font-size="30" transform="translate(375 70)">
+     <switch>
+          <text systemLanguage="ar">&#8206;(2017) سكان أستراليا</text>
+          <text systemLanguage="bg">Австралия Население (2017)</text>
+          <text systemLanguage="de">Alterspyramide von Australien (2017)</text>
+          <text systemLanguage="es">Australia Población (2017)</text>
+          <text systemLanguage="eu">Australia Biztanleria (2017)</text>
+          <text systemLanguage="fi">Australia Väestö (2017)</text>
+          <text systemLanguage="fr">Australie Population (2017)</text>
+          <text systemLanguage="hr">Australija Stanovništvo (2017)</text>
+          <text systemLanguage="it">Australia Popolazione (2017)</text>
+          <text systemLanguage="ja">オーストラリアの人口（2017年）</text>
+          <text systemLanguage="ka">ავსტრალიის მოსახლეობა (2017)</text>
+          <text systemLanguage="ko">호주 인구 (2017)</text>
+          <text systemLanguage="lt">Australija Gyventojų (2017)</text>
+          <text systemLanguage="mk">Австралија Население (2017)</text>
+          <text systemLanguage="mn">Австрали хүн ам (2017)</text>
+          <text systemLanguage="nl">Australië Bevolking (2017)</text>
+          <text systemLanguage="no">Australia Befolkning (2017)</text>
+          <text systemLanguage="pl">Ludność Australii (2017 r.)</text>
+          <text systemLanguage="pt">Austrália População (2017)</text>
+          <text systemLanguage="ru">Австралия Население (2017)</text>
+          <text systemLanguage="sl">Avstralija Prebivalstvo (2017)</text>
+          <text systemLanguage="sv">Australien Population (2017)</text>
+          <text systemLanguage="vi">Dân số Úc (2017)</text>
+          <text systemLanguage="zh">澳大利亞的人口（2017年）</text>
+          <text>Population of Australia (2017)</text>
+     </switch>
+     </g>
+<!-- Y-axis -->
+     <g font-size="24" transform="translate(360 620)">
+     <switch>
+          <text systemLanguage="ar">&#8206;(السكان (بالآلاف</text>
+          <text systemLanguage="bg">Население (в хиляди)</text>
+          <text systemLanguage="de">Bevölkerung (in Tausend)</text>
+          <text systemLanguage="es">Población (en miles)</text>
+          <text systemLanguage="eu">Biztanleria (milaka)</text>
+          <text systemLanguage="fi">Väkiluku (tuhatta)</text>
+          <text systemLanguage="fr">Population (en milliers)</text>
+          <text systemLanguage="hr">Stanovništvo (u tisućama)</text>
+          <text systemLanguage="it">Popolazione (in migliaia)</text>
+          <text systemLanguage="ja">人口（千）</text>
+          <text systemLanguage="ka">მოსახლეობა (ათასი)</text>
+          <text systemLanguage="ko">인구 (천)</text>
+          <text systemLanguage="lt">Gyventojai (tūkstančiais)</text>
+          <text systemLanguage="mk">Население (во илјади)</text>
+          <text systemLanguage="mn">Хүн ам (мянгаар)</text>
+          <text systemLanguage="nl">Bevolking (in duizenden)</text>
+          <text systemLanguage="no">Befolkning (i tusen)</text>
+          <text systemLanguage="pl">Ludność (w tysiącach)</text>
+          <text systemLanguage="pt">População (em milhares)</text>
+          <text systemLanguage="ru">Население (в тыс.)</text>
+          <text systemLanguage="sl">Prebivalstvo (v tisočih)</text>
+          <text systemLanguage="sv">Befolkning (i tusental)</text>
+          <text systemLanguage="vi">Dân số (ngàn)</text>
+          <text systemLanguage="zh">人口（千人）</text>
+          <text>Population (in thousands)</text>
+     </switch>
+     </g>
+     <g id="age" font-size="20" text-anchor="middle" transform="translate(377 571)">
+     <switch>
+          <text systemLanguage="ar">سن</text>
+          <text systemLanguage="bg">Възраст</text>
+          <text systemLanguage="de">Alter</text>
+          <text systemLanguage="es">Edad</text>
+          <text systemLanguage="eu">Adina</text>
+          <text systemLanguage="fi">Ikä</text>
+          <text systemLanguage="fr">Âge</text>
+          <text systemLanguage="hr">Starost</text>
+          <text systemLanguage="it">Età</text>
+          <text systemLanguage="ja">年齢</text>
+          <text systemLanguage="ka">ასაკი</text>
+          <text systemLanguage="ko">나이</text>
+          <text systemLanguage="lt">Amžius</text>
+          <text systemLanguage="mk">Bозраст</text>
+          <text systemLanguage="mn">Нас</text>
+          <text systemLanguage="nl">Leeftijd</text>
+          <text systemLanguage="no">Alder</text>
+          <text systemLanguage="pl">Wiek</text>
+          <text systemLanguage="pt">Idade</text>
+          <text systemLanguage="ru">Возраст</text>
+          <text systemLanguage="sl">Starost</text>
+          <text systemLanguage="sv">Ålder</text>
+          <text systemLanguage="vi">Tuổi</text>
+          <text systemLanguage="zh">年齡</text>
+          <text>Age</text>
+     </switch>
+          <text y="-22">0-4</text>
+          <text y="-44">5-9</text>
+          <text y="-66">10-14</text>
+          <text y="-88">15-19</text>
+          <text y="-110">20-24</text>
+          <text y="-132">25-29</text>
+          <text y="-154">30-34</text>
+          <text y="-176">35-39</text>
+          <text y="-198">40-44</text>
+          <text y="-220">45-49</text>
+          <text y="-242">50-54</text>
+          <text y="-264">55-59</text>
+          <text y="-286">60-64</text>
+          <text y="-308">65-69</text>
+          <text y="-330">70-74</text>
+          <text y="-352">75-79</text>
+          <text y="-374">80-84</text>
+          <text y="-396">85-89</text>
+          <text y="-418">90-94</text>
+          <text y="-440">95-99</text>
+          <text y="-462">100+</text>
+     </g>
+<!-- X-axis -->
+     <g id="x_axis_numbers" font-size="24" transform="translate(0 591)">
+          <text x="77">800</text>
+          <text x="141">600</text>
+          <text x="205">400</text>
+          <text x="269">200</text>
+          <text x="333">0</text>
+          <text x="420">0</text>
+          <text x="484">200</text>
+          <text x="548">400</text>
+          <text x="612">600</text>
+          <text x="676">800</text>
+     </g>
+<!-- legend -->
+          <!-- Male -->
+     <g id="legend" font-size="36" transform="translate(65 169)" text-anchor="start">
+          <switch>
+              <text systemLanguage="ar">ذكر</text>
+              <text systemLanguage="bg">Мъжки</text>
+              <text systemLanguage="de">Männlich</text>
+              <text systemLanguage="es">Masculino</text>
+              <text systemLanguage="eu">Gizonezkoa</text>
+              <text systemLanguage="fi">Mies</text>
+              <text systemLanguage="fr">Mâle</text>
+              <text systemLanguage="hr">Muškarac</text>
+              <text systemLanguage="it">Maschio</text>
+              <text systemLanguage="ja">男性</text>
+              <text systemLanguage="ka">კაცი</text>
+              <text systemLanguage="ko">남성</text>
+              <text systemLanguage="lt">Vyriškis</text>
+              <text systemLanguage="mk">Машки</text>
+              <text systemLanguage="mn">Эрэгтэй</text>
+              <text systemLanguage="nl">Mannelijk</text>
+              <text systemLanguage="no">Mann</text>
+              <text systemLanguage="pl">Mężczyzna</text>
+              <text systemLanguage="pt">Masculino</text>
+              <text systemLanguage="ru">Мужской</text>
+              <text systemLanguage="sl">Moški</text>
+              <text systemLanguage="sv">Maskulin</text>
+              <text systemLanguage="vi">Nam</text>
+              <text systemLanguage="zh">男</text>
+              <text>Male</text>
+          </switch>
+     </g>          <!-- Female -->
+     <g id="legend" font-size="36" transform="translate(695 169)" text-anchor="end">           <switch>
+              <text systemLanguage="ar">أنثى</text>
+              <text systemLanguage="bg">Женски</text>
+              <text systemLanguage="de">Weiblich</text>
+              <text systemLanguage="es">Femenino</text>
+              <text systemLanguage="eu">Eme</text>
+              <text systemLanguage="fi">Nainen</text>
+              <text systemLanguage="fr">Femelle</text>
+              <text systemLanguage="hr">Žena</text>
+              <text systemLanguage="it">Femminile</text>
+              <text systemLanguage="ja">女性</text>
+              <text systemLanguage="ka">ქალი</text>
+              <text systemLanguage="ko">여성</text>
+              <text systemLanguage="lt">Moteris</text>
+              <text systemLanguage="mk">Женски</text>
+              <text systemLanguage="mn">Эмэгтэй</text>
+              <text systemLanguage="nl">Vrouw</text>
+              <text systemLanguage="no">Kvinne</text>
+              <text systemLanguage="pl">Kobieta</text>
+              <text systemLanguage="pt">Feminino</text>
+              <text systemLanguage="ru">Женский</text>
+              <text systemLanguage="sl">Ženski</text>
+              <text systemLanguage="sv">Kvinna</text>
+              <text systemLanguage="vi">Nữ</text>
+              <text systemLanguage="zh">女</text>
+              <text>Female</text>
+          </switch>
+     </g>
+
+</g>
+</svg>
