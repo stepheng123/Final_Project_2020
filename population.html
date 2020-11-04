@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Population</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="bootstrap.css">
+</head>
+<body>
+<!--NavBar-->
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+  <a class="navbar-brand" href="index.html">D3.Team Project</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+<!--NavBar collapse-->
+<div class="collapse navbar-collapse" id="navbarColor01">
+  <ul class="navbar-nav mr-auto">
+    <li class="nav-item">
+      <a class="nav-link" href="population.html">Population</a>
+    </li>
+    <li class="nav-item dropdown">
+      <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Economy</a>
+      <div class="dropdown-menu">
+        <a class="dropdown-item" href="economy_charts.html">Economy charts</a>
+        <a class="dropdown-item" href="exports_bar.html">Export of goods</a>
+      </div>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="data.html">Data</a>
+    </li>
+    <li class="nav-item dropdown">
+      <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Maps</a>
+      <div class="dropdown-menu">
+        <a class="dropdown-item" href="bubble.html">Bubble Map</a>
+        <a class="dropdown-item" href="choropleth.html">Choropleth Map</a>
+      </div>
+    </li>
+  </ul>
+</nav>
+
+
+<!-- Creates the Overall Grid -->
+<div class="container">
+  <!-- First Row -->
+  <div class="row">
+    <!-- First (and only column) -->
+    <div class="col-md-12">
+      <br><br>
+      <h1 class="text-center">Population: 
+        <small class="text-muted">of Australia</small>
+        </h1>
+      <br><br>
+    </div>
+  </div>
+  <!--Row-->
+  <div class="row">
+   <!--1 of 2 Columns-->
+   <div class="col-md-12">
+    <br><br>
+     <p class="lead">The map below shows the distribution of Australians across the country. The total population of Australia is estimated to be 25,671,900 as of 29 September 2020. Australia is the 52nd most populous country in the world and the most populous Oceanian country. 
+       Its population is concentrated mainly in urban areas and is expected to exceed 28 million by 2030. Australia has an average population density of 3.3 persons per square kilometre of total land area, which makes it one of the most sparsely populated countries in the world.<p>
+      <br><br>
+      <p class="lead">The following line chart displays the population growth of Australians since the turn of the 20th century. The first 50 years sees a slow population growth. The world saw a few major calamities during this period. The world experience two major world wars and 
+        the Spanish flu. After the 1950s, Australia open its doors for the best and brightest. This attracted an huge movement of people to Australia. This increase in population also improved the economy strengths of the country. </p>
+   </div>
+   <body>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datasource@0.1.0"></script>
+    
+    <canvas id="myChart"></canvas>
+
+
+    <script src="app.js"></script>
+    
+  </body>
+   <!--2 of 2 Columns-->
+   <div>
+      <h3 class="card-header">Visualizations</h3>
+      <div class="card-body">
+      <p class="card-text">Population</p>
+      </div>
+      <a target="_blank"  href="http://127.0.0.1:5500/Project_Take2/Population_Layers/index.html">
+      <img style="height: 800px; width: 1000px; display: block;"src="Images/population_bubble.png" alt="Population Layers">
+      </a>
+
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+</body>
+
+</html>
