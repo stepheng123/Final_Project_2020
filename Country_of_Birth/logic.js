@@ -42,7 +42,7 @@ var countries = [
   },
   {
     name: "England",
-    location: [52.355, 1.1743],
+    location: [53.799722, -1.549167],
     points: 986460
   },
   {
