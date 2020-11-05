@@ -17,3 +17,6 @@ Arvin will be taking the lead on machine learning and neural networks. He will a
 
 ## The Data Exploration
 
+For the tourism story, the team sourced data from insideairbnb.com. This dataset is from Insideairbnb.com. This is an independent, non-commercial set of tools and data that allows the user to explore how Airbnb is really being used in cities around the world.
+
+
