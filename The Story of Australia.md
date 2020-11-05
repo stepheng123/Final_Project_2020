@@ -17,6 +17,13 @@ Arvin will be taking the lead on machine learning and neural networks. He will a
 
 ## The Data Exploration
 
-For the tourism story, the team sourced data from insideairbnb.com. This dataset is from Insideairbnb.com. This is an independent, non-commercial set of tools and data that allows the user to explore how Airbnb is really being used in cities around the world.
+For the sports story, the team sourced data from wikipedia. It had a complete record of Australia's performance till date in all summer and winter olympics since 1896. This data was scraped using pandas and inspected accordingly. 
 
+
+For the tourism story, the team sourced data from a variety of datasets made available on kaggle.com. These datasets showed tourism data between states, reviews from airbnb in Melbourne and xxxxxx. 
+
+
+## The Deployment
+
+The team decided to capitalise and expand the previously developed website. For the last project, the same website was deployed locally. However, in this instance, the team deployed the website using Herokuapp. Stephen used the documentation provided and deployed the website as an app. He also re-organised the files into his github account and connected Herokuapp to his account. The initial trials were unsuccessful but finally Stephen managed to address these and deploy the website successfully. 
 
