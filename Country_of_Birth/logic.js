@@ -98,7 +98,7 @@ for (var i = 0; i < countries.length; i++) {
     fillColor: color,
     // Adjust radius
     radius: countries[i].points * 0.6
-  }).bindPopup("<h1>" + countries[i].name + "</h1> <hr> <h3>Points: " + countries[i].points + "</h3>").addTo(myMap);
+  }).bindPopup("<h1>" + countries[i].name + "</h1> <hr> <h3>Population residing in Australia: " + countries[i].points + "</h3>").addTo(myMap);
 }
 
 // Create base layers
