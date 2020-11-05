@@ -17,10 +17,12 @@ Arvin will be taking the lead on machine learning and neural networks. He will a
 
 ## The Data Exploration
 
-For the sports story, the team sourced data from wikipedia. It had a complete record of Australia's performance till date in all summer and winter olympics since 1896. This data was scraped using pandas and inspected accordingly. 
+For the sports story, the team sourced data from kaggle. It had a complete record of Australia's performance till date in all summer and winter olympics since 1896. The dataset consists of winter olympics, summer olympics and a reference to each country with their corresponding GDP and population.  
 
 
 For the tourism story, the team sourced data from a variety of datasets made available on kaggle.com. These datasets showed tourism data between states, reviews from airbnb in Melbourne and xxxxxx. 
+
+To help tell the story better, the team also found an interesting source on Australian Climate. This is summarised in a wikipedia page. Arvin used Pandas to scrape the tables and export into a csv file. 
 
 
 ## The Deployment
