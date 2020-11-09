@@ -9,7 +9,10 @@ The website is an expansion of the previous project which focused on the populat
 
 ## The Team
 
-The team is made of two key value pairs, Stephen and Arvin. Stephen will focus on deploying the website on the cloud. This choice of services is yet to be defined at the time of writing. Stephen will also be looking to visually narrate the sporting trends and culture. 
+The team is made of two key value pairs, Stephen and Arvin. After much deliberation, the team wanted to maximise their work in using a few key areas as described in the brief. The team agreed to use Herokuapp to host the website. The team agreed to explore the potential of using Naive-Bayes for categorising the reviews in AirBNB. The team will also use Tableau to display stories they have found interesting about Australia's sports records. 
+
+
+Stephen will focus on deploying the website on the cloud. This choice of services is yet to be defined at the time of writing. Stephen will also be looking to visually narrate the sporting trends and culture. 
 
 Arvin will be taking the lead on machine learning and neural networks. He will assess the reviews available from AirBNB on Perth, Melbourne and Sydney to make recommendations for local holidaymakers. Arvin will also be responsible to document the journey. 
 
