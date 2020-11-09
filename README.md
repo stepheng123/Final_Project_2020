@@ -46,4 +46,13 @@ Finally, the team also experimented with the hypothesis if number of reviews dic
 
 ## Tableau
 
+The olympics dataset was quite exciting. Initially, the team attempted to webscrape this from a wikipedia site. However, due to some formatting challenges, the team found the same data available from Kaggle. Using this dataset, the team then explored many different correlation. The team used the Tableau to visualise the correlation of countries and their achievements, gender and timeline of Australian medals. This was then extracted and inserted into the website. 
+
+## HTML, JavaScript, CSS
+
+Based the team's previous experience, the team had an existing website it could improve upon. Within this website, the team changed the look-and-feel of the site. It added more pages to explain the new stories on tourism and sports. 
+
+
+
+
 
