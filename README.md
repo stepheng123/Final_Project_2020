@@ -17,7 +17,6 @@ Stephen will focus on deploying the website on the cloud. This choice of service
 Arvin will be taking the lead on machine learning and neural networks. He will assess the reviews available from AirBNB on Perth, Melbourne and Sydney to make recommendations for local holidaymakers. Arvin will also be responsible to document the journey. 
 
 
-
 ## The Data Exploration
 
 For the sports story, the team sourced data from kaggle. It had a complete record of Australia's performance till date in all summer and winter olympics since 1896. The dataset consists of winter olympics, summer olympics and a reference to each country with their corresponding GDP and population.  
@@ -27,8 +26,13 @@ For the tourism story, the team sourced data from a variety of datasets. One dat
 
 To help tell the story better, the team also found an interesting source on Australian Climate. This is summarised in a wikipedia page. Arvin used Pandas to scrape the tables and export into a csv file. 
 
+The team also reviewed the dataset acquired for the previous phase. There was some value in using the same dataset but in different applications. The team believed the economic dataset showing Australian trade was useful for Machine Learning. 
+
+In summary, the datasources were primarily from Wikipedia, Kaggle and Australian government agencies. 
 
 ## The Deployment
 
 The team decided to capitalise and expand the previously developed website. For the last project, the same website was deployed locally. However, in this instance, the team deployed the website using Herokuapp. Stephen used the documentation provided and deployed the website as an app. He also re-organised the files into his github account and connected Herokuapp to his account. The initial trials were unsuccessful but finally Stephen managed to address these and deploy the website successfully. 
+
+## Machine Learning
 
