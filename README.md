@@ -36,3 +36,8 @@ The team decided to capitalise and expand the previously developed website. For 
 
 ## Machine Learning
 
+The team initially explored the use of Naive-Bayes model to ascertain the type of feedback collected from airbnb.com. The team postulated that the quality and quantity of feedback will have a correlation with an area being favoured positively or negatively for tourism. The initial use of this was unsuccessful. The team learnt that it required to train the model based on a highly varied and unreliable dataset. There is also the issue of some reviews may not be written in grammatically correct English. 
+
+Based on this, the team decided to pivot to using the economics data. Using linear regression, the team was able to predict to a degree the economic growth of Australia. However, this dataset was homogenous to pre-pandemic era. The team believed it is very challenging to arrive at the same conclusion post-pandemic and without a reasonable correction factor. 
+
+The team also experimented with the idea of comparing airbnb location versus it's price. The team was curious to find out if 
