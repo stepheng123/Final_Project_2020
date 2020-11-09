@@ -40,4 +40,10 @@ The team initially explored the use of Naive-Bayes model to ascertain the type o
 
 Based on this, the team decided to pivot to using the economics data. Using linear regression, the team was able to predict to a degree the economic growth of Australia. However, this dataset was homogenous to pre-pandemic era. The team believed it is very challenging to arrive at the same conclusion post-pandemic and without a reasonable correction factor. 
 
-The team also experimented with the idea of comparing airbnb location versus it's price. The team was curious to find out if 
+The team also experimented with the idea of comparing airbnb location versus it's price. The team was curious to find out if more northern or southern a location had an impact on its price.
+
+Finally, the team also experimented with the hypothesis if number of reviews dictated the price. The team would like to explore the possibility of predicting the right price based on the number of reviews. 
+
+## Tableau
+
+
