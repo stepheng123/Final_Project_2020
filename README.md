@@ -23,7 +23,7 @@ Arvin will be taking the lead on machine learning and neural networks. He will a
 For the sports story, the team sourced data from kaggle. It had a complete record of Australia's performance till date in all summer and winter olympics since 1896. The dataset consists of winter olympics, summer olympics and a reference to each country with their corresponding GDP and population.  
 
 
-For the tourism story, the team sourced data from a variety of datasets made available on kaggle.com. These datasets showed tourism data between states, reviews from airbnb in Melbourne and xxxxxx. 
+For the tourism story, the team sourced data from a variety of datasets. One dataset provided AirBNB reviews and listings for major cities in Perth. This is from insideairbnb.com. However, this dataset lacked reviews to be analysed via machine learning. The team also found a blog that detailed step-by-step method of scraping reviews from AirBNB. The team considered this option as a possibility if there was sufficient time. The team also found data made available on kaggle.com. These datasets showed tourism data between states, reviews from airbnb in Melbourne. 
 
 To help tell the story better, the team also found an interesting source on Australian Climate. This is summarised in a wikipedia page. Arvin used Pandas to scrape the tables and export into a csv file. 
 
