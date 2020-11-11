@@ -1,231 +1,34 @@
-Year,1987,1988,1989,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019
-China,"1,616","1,234","1,436","1,588","1,757","2,094","2,578","3,165","3,515","4,235","4,385","4,279","4,716","6,860","8,822","10,050","11,182","13,730","19,068","23,762","27,921","37,373","48,270","64,892","78,129","74,821","94,074","91,741","86,742","95,682","116,013","136,585","168,575"
-Japan,"10,817","13,123","14,105","15,547","17,251","17,563","18,698","19,269","19,984","19,438","20,594","20,974","20,030","25,018","26,880","25,399","22,593","25,311","31,583","35,470","34,581","53,146","40,309","45,683","52,378","49,853","49,436","50,188","42,155","38,451","47,220","58,789","60,417"
-Republic of Korea,"1,618","2,118","2,601","3,132","3,569","3,933","4,803","5,369","7,042","8,321","7,802","6,619","6,896","9,869","10,675","11,066","9,277","10,417","12,479","14,231","15,601","20,528","17,750","22,662","25,256","21,813","21,456","22,171","20,226","20,431","23,536","26,585","28,222"
-United States,"5,696","6,014","6,801","7,653","7,325","7,063","7,380","7,020","7,367","8,121","9,980","12,721","12,989","16,677","16,445","16,298","14,148","13,973","13,929","15,792","15,956","18,371","15,402","14,802","15,456","15,144","16,034","18,597","22,083","20,618","20,983","23,157","25,440"
-India,na,na,na,na,na,na,na,na,na,na,na,na,"1,940","2,304","2,996","3,004","3,933","6,262","8,168","10,349","11,424","16,740","18,308","19,974","18,158","14,466","11,594","11,534","13,906","15,200","20,269","22,409","21,787"
-United Kingdom,"2,758","2,892","3,154","3,486","3,489","4,137","4,657","4,241","4,419","5,155","4,933","7,621","7,055","7,758","9,288","9,914","12,007","9,864","10,098","13,566","12,342","14,287","13,669","12,774","11,972","11,194","8,574","8,888","9,341","15,462","11,553","10,502","21,208"
-Singapore,"1,149","1,636","2,038","2,804","3,447","4,426","4,066","4,466","5,099","4,423","5,190","4,671","5,709","8,012","7,817","7,590","5,836","5,673","6,746","7,603","7,513","10,411","8,617","7,762","9,835","10,568","9,425","12,290","11,267","10,710","11,960","14,709","16,887"
-New Zealand,"3,135","3,371","3,685","3,790","3,875","4,200","4,882","5,579","6,642","7,279","7,952","7,508","8,747","9,409","9,997","10,751","11,194","12,035","12,612","12,609","13,370","13,339","11,450","11,540","11,334","11,215","11,329","12,450","12,968","13,253","14,038","15,049","16,566"
-Taiwan,"1,350","1,568","1,871","1,957","2,543","2,890","3,288","3,449","3,994","3,912","4,534","4,748","4,672","6,004","5,803","5,184","4,177","4,568","5,986","6,759","6,479","8,784","7,112","8,968","9,757","8,740","8,194","8,091","7,628","8,936","10,405","12,253","14,304"
-Malaysia,906,"1,056","1,210","1,378","1,493","1,626","2,105","2,601","2,967","2,978","3,198","2,657","2,776","3,292","3,566","3,373","3,274","3,645","3,838","4,106","4,614","5,707","4,967","5,461","6,312","6,971","7,508","8,319","8,206","7,874","8,578","10,105","11,700"
-Hong Kong (SAR of China),"1,695","2,535","1,957","1,783","2,461","3,001","3,520","3,526","3,813","3,859","4,728","4,553","4,117","4,754","5,762","5,177","4,461","4,306","4,242","4,797","4,524","4,766","4,647","4,933","4,887","9,454","12,778","12,111","11,580","12,846","15,050","13,420","10,705"
-Indonesia,716,852,"1,198","1,695","1,794","2,142","2,373","2,692","3,300","4,131","4,509","3,119","3,231","3,962","4,343","4,126","3,805","4,181","4,445","5,244","4,840","5,328","5,316","5,722","6,704","6,127","6,555","7,112","6,989","7,660","8,634","8,504","8,049"
-Vietnam,na,na,na,na,na,na,na,na,na,na,na,na,491,623,712,719,646,883,911,"1,880","1,797","2,223","2,265","2,532","3,091","2,803","3,255","4,411","4,930","5,196","6,173","6,735","7,931"
-Thailand,366,513,697,789,906,"1,320","1,578","1,795","2,263","2,190","2,099","1,693","1,895","2,511","2,873","3,175","2,917","3,707","4,808","5,000","5,284","6,332","5,364","6,895","7,752","5,788","5,823","6,231","5,498","4,688","5,783","7,821","5,690"
-Germany,"1,397","1,439","1,539","1,574","1,445","1,545","1,511","1,651","1,753","1,718","1,839","2,161","2,018","2,181","2,392","2,582","2,261","2,371","2,419","2,468","2,688","3,381","2,878","3,082","3,507","3,204","3,167","3,017","3,314","4,046","4,050","4,512","4,837"
-United Arab Emirates,na,na,na,na,na,na,na,na,na,na,na,na,na,"1,169","1,467","1,517","1,486","1,816","1,782","2,372","3,575","4,543","2,708","2,747","2,701","2,576","3,192","3,693","4,095","3,586","4,222","4,652","4,303"
-Netherlands,745,806,958,"1,232","1,084","1,053",920,911,863,890,858,"1,260","1,258","2,201","2,002","1,770","1,717","2,058","2,754","3,336","3,265","4,144","2,510","3,087","3,896","3,357","2,868","2,694","2,810","3,116","3,588","4,319","4,158"
-Philippines,353,419,525,576,595,660,775,879,"1,174","1,297","1,533","1,291","1,409","1,710","1,480","1,293","1,103","1,123","1,007","1,189","1,359","1,821","1,561","1,669","2,002","2,315","1,975","2,385","2,360","2,713","3,152","3,119","4,022"
-Canada,782,"1,028",813,"1,075","1,084","1,178","1,501","1,363","1,485","1,624","1,508","1,736","1,572","1,952","2,394","2,405","2,248","2,559","2,459","2,510","2,702","2,477","2,333","2,117","2,446","2,568","2,284","2,176","2,593","2,812","2,695","3,104","3,396"
-Nepal,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,216,446,708,676,619,564,542,699,873,959,"1,407","2,260","3,090"
-Papua New Guinea,981,"1,086","1,071","1,011","1,149","1,102","1,173","1,215","1,175","1,515","1,534","1,373","1,367","1,294","1,344","1,259","1,075","1,186","1,656","1,801","2,010","1,975","2,332","2,681","2,960","3,362","3,071","2,777","2,308","2,239","2,246","2,697","3,049"
-Switzerland (g),557,436,680,"1,218","1,070",656,546,404,678,717,701,"1,394",661,576,710,798,721,685,766,"1,007","2,345","1,273","1,346","1,208","1,521","1,392","1,736","1,661","1,708","2,068","2,464","2,153","3,036"
-France (d),"1,058","1,099","1,028",924,996,"1,153",983,970,957,912,"1,112","1,136","1,209","1,249","1,549","1,779","1,409","1,427","1,547","1,737","2,047","2,535","1,943","1,894","1,900","1,799","2,054","2,072","2,155","2,237","2,350","2,674","2,701"
-Brazil,na,na,na,na,na,na,na,na,na,na,na,na,na,684,561,503,560,689,"1,035","1,156","1,224","2,061","1,468","2,048","1,852","1,452","1,286","1,774","1,929","1,901","2,484","2,586","2,313"
-South Africa,177,171,160,163,232,372,470,570,823,"1,121","1,200","1,262","1,146","1,483","1,515","1,511","1,622","1,928","2,172","2,598","2,909","3,000","1,946","2,301","2,125","1,935","1,787","1,626","1,623","1,355","1,813","2,068","1,904"
-Ireland,28,36,49,50,51,48,64,87,121,138,159,235,357,396,678,535,687,681,666,675,806,871,750,763,747,804,802,636,641,643,603,"1,227","1,772"
-Belgium (c),20,29,22,29,29,26,29,38,58,92,123,137,109,92,114,105,433,853,"1,098","1,249","1,629","1,656",958,"1,397","1,602","1,831","1,390","1,258","1,365","1,078","1,438","1,109","1,524"
-Bangladesh,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,414,478,625,802,832,741,826,851,"1,009","1,157","1,572","1,357","1,439"
-Italy (e),980,"1,265","1,142","1,118","1,053","1,167","1,093","1,324","1,481","1,502","1,926","2,032","1,721","2,179","2,447","2,278","1,815","1,638","1,756","2,082","1,870","2,045","1,335","1,462","1,623","1,246","1,229","1,278","1,412","1,379","1,424","1,541","1,299"
-Pakistan,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,558,619,755,810,765,"1,087",876,"1,001","1,319","1,309","1,384","1,237","1,214"
-Saudi Arabia,na,na,na,na,na,na,na,na,na,na,na,na,na,"1,607","2,645","2,405","1,834","2,015","1,959","2,270","2,073","2,763","2,113","2,007","1,879","2,162","2,598","2,670","2,575","1,991","1,635","1,070","1,197"
-Bahrain (b),na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,157,196,162,190,179,164,676,745,927,761,905,"1,430","1,194"
-Sri Lanka,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,411,579,570,561,558,484,483,545,689,641,832,973,"1,091"
-Qatar,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,246,213,217,338,476,584,611,632,794,768,651,"1,043","1,040"
-Russian Federation (f),735,797,"1,070",64,63,112,271,352,215,124,206,256,214,326,254,233,211,243,402,735,762,"1,240",713,982,"1,119",965,928,707,684,605,629,791,904
-Spain,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,"1,161","1,074",584,924,"1,146",913,732,896,897,908,"1,046","1,350",893
-Colombia,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,174,269,345,313,291,301,366,380,425,444,576,727,828
-Sweden,195,237,242,211,227,226,214,215,270,377,260,320,455,489,410,435,443,506,689,649,640,932,627,791,692,616,571,571,589,615,602,723,805
-Poland,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,134,165,139,132,132,174,248,444,440,510,577,662,723
-Fiji,193,222,261,299,302,358,412,434,499,585,623,681,818,794,731,683,634,560,585,611,512,584,483,465,464,443,450,504,563,612,651,681,678
-Chile,22,23,33,34,55,64,115,118,152,185,171,243,148,166,158,179,143,186,229,333,349,535,420,456,677,607,547,471,515,683,626,611,638
-New Caledonia,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,504,576,522,516,498,443,414,455,551,518,567,597,618
-Turkey,na,na,na,na,na,na,na,na,na,na,na,na,na,318,328,332,303,333,389,474,636,"1,081",396,566,674,751,"1,034",632,575,634,"1,568",553,606
-Egypt (b),na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,403,430,507,557,613,562,524,520,580,453,573,646,574
-Norway,na,na,na,na,na,na,na,na,na,na,na,na,256,293,337,407,352,338,351,337,328,407,294,367,378,441,358,505,319,343,363,449,517
-Mozambique,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,440,464,334,397,428,360,474,474,479,390,567,715,516
-Oman,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,397,740,418,507,450,493,418,470,694,676,511,702,513
-Kuwait,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,556,527,528,571,664,582,676,690,804,767,630,437,491
-Mexico,53,69,65,153,152,135,162,213,83,127,161,297,291,363,425,466,485,472,884,898,734,740,904,794,"1,193",943,466,608,650,570,356,413,440
-Argentina,na,na,na,na,na,na,na,na,na,na,na,na,na,126,107,81,111,99,171,222,160,345,265,401,439,338,261,188,389,249,463,579,415
-Israel,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,267,395,285,268,336,297,289,277,353,313,312,393,402
-Denmark,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,555,562,562,510,615,507,555,479,505,548,392,306,384
-Kenya,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,119,143,119,128,141,131,184,190,200,214,318,297,328
-Cayman Islands,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,50,35,8,10,14,14,25,36,96,122,156,211,302
-Iceland (b),na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,13,34,12,9,7,7,7,10,10,223,279,440,272
-Cambodia,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,73,76,84,72,85,77,86,138,135,143,163,213,271
-Iran,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,292,291,691,300,297,588,450,527,254,258,341,352,269
-Mauritius,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,203,307,335,294,241,223,219,233,304,242,249,248,268
-Myanmar,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,58,62,97,127,121,139,177,197,212,241,268,272,265
-Yemen,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,105,177,265,268,242,280,322,317,386,255,273,165,258
-Macau (SAR of China),na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,104,68,90,62,78,91,97,94,134,251,224,272,256
-Nigeria,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,51,59,79,81,76,108,229,295,333,306,362,291,249
-Peru,na,na,na,na,na,na,na,na,na,na,na,na,38,55,67,68,62,78,81,113,123,172,206,184,196,224,219,200,217,183,214,193,233
-Mongolia,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,25,33,29,46,69,92,92,58,69,88,151,229,227
-Czech Republic,,,,,,,na,na,na,na,na,na,na,na,na,na,na,na,na,na,168,169,144,169,195,195,207,224,246,231,261,276,222
-Bermuda,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,81,53,98,119,55,50,57,132,193,235,197,278,214
-Jordan,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,92,112,176,163,224,206,236,248,277,222,174,169,189
-Finland,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,"1,276","1,149",378,329,409,289,151,129,117,154,143,183,168
-Ghana,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,125,189,142,191,211,237,146,74,86,150,140,143,166
-Bhutan,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,8,9,13,29,20,25,29,49,65,64,80,114,154
-Solomon Islands,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,138,116,164,186,176,194,203,200,216,170,156,164,153
-Austria,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,195,196,202,213,227,202,199,178,183,143,150,137,140
-Vanuatu,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,114,129,122,123,104,111,108,120,131,137,135,136,135
-Greece,83,120,104,97,79,79,79,64,75,93,102,122,138,297,195,129,119,134,147,95,161,138,101,91,85,108,105,100,101,104,118,125,127
-Slovenia,,,,,,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,32,37,40,25,43,26,57,40,55,67,143,56,116
-Ukraine,,,,,,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,93,333,89,140,102,88,62,140,170,79,90,95,114
-Panama,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,15,16,18,15,22,37,57,85,87,75,152,163,114
-Brunei,21,22,25,26,23,54,75,73,87,86,74,65,75,78,104,104,93,105,86,81,89,95,105,95,100,88,105,92,108,111,102,112,110
-Venezuela,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,31,49,56,47,44,49,47,90,108,88,97,na,107
-Lebanon,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,54,79,89,82,97,80,89,93,113,95,103,99,104
-Hungary,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,69,78,76,62,59,63,70,70,74,78,75,78,102
-Portugal,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,81,75,78,68,65,65,76,83,78,84,123,110,92
-Cote d'Ivoire,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,14,10,14,11,8,14,26,7,16,22,64,93,91
-Georgia,,,,,,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,4,16,24,53,34,17,30,9,8,6,13,79,91
-Zimbabwe,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,88,108,105,89,67,57,50,53,62,67,79,82,91
-Luxembourg,,,,,,,,,,,,,,,,,na,na,na,na,12,21,18,17,29,35,29,32,36,33,47,116,90
-Timor-Leste,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,78,75,82,114,68,63,56,83,77,79,72,68,81
-Samoa,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,61,66,70,61,58,61,76,97,55,59,74,65,78
-Maldives,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,33,39,35,38,41,43,43,49,51,50,55,58,72
-Laos,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,95,66,37,56,62,66,71,72,67,54,62,65,71
-French Polynesia,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,99,100,87,68,60,59,52,57,59,57,60,65,68
-Tanzania,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,55,105,126,121,113,97,151,89,135,67,60,66,66
-Nauru,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,30,27,31,18,22,31,146,113,82,75,58,64,62
-Iraq,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,18,158,317,105,411,194,625,332,98,100,138,314,60
-Tonga,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,28,40,36,33,32,28,25,34,38,46,47,59,59
-Romania,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,157,189,50,29,25,43,48,61,72,69,94,72,58
-Estonia,,,,,,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,26,24,27,25,43,42,37,35,40,41,41,42,51
-Slovak Republic,,,,,,,na,na,na,na,na,na,na,na,na,na,na,na,na,na,55,62,55,56,54,55,55,64,64,73,51,50,51
-Kazakhstan,,,,,,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,18,32,19,27,37,70,56,34,33,29,31,38,48
-Ecuador,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,13,19,12,16,20,27,41,60,55,56,51,54,46
-Bulgaria,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,65,37,21,18,22,120,112,172,110,110,40,88,44
-Zambia,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,77,103,50,49,60,62,53,56,49,44,46,43,42
-Lithuania,,,,,,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,11,15,11,13,18,23,25,28,35,34,34,39,41
-Uruguay,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,25,29,16,18,16,15,22,17,18,17,19,na,40
-Trinidad & Tobago,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,22,20,80,102,26,19,18,23,24,22,28,22,38
-Burkina Faso,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,7,3,14,4,10,29,12,10,27,18,21,32,36
-Cyprus,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,30,26,23,22,24,20,17,19,18,23,21,31,36
-Latvia,,,,,,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,22,19,15,15,17,18,23,18,17,18,25,26,36
-Botswana,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,35,34,27,20,22,22,20,17,21,11,14,15,35
-Jamaica,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,35,22,27,23,18,13,13,19,41,16,21,29,35
-Madagascar,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,11,11,27,29,16,19,16,18,10,14,23,25,34
-Gibraltar,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,3,3,11,18,22,2,2,1,4,1,7,32,34
-Southern and East Africa nec,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,43,36,85,55,89,98,31,9,2,59,22,29,31
-Senegal,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,23,43,29,18,50,69,55,15,27,62,89,34,30
-Morocco,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,20,26,44,39,19,28,37,48,18,28,46,29,30
-Kiribati,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,38,30,33,29,39,37,36,34,37,30,31,27,26
-North Macedonia,,,,,,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,15,18,16,18,19,22,23,25,22,20,21,23,26
-Bahamas,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,7,15,6,3,3,4,6,10,12,17,25,20,24
-Malta,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,36,49,62,137,27,26,22,23,21,18,33,26,23
-Serbia,,,,,,,,,,,,,,,,,,,,,,,17,16,22,28,23,25,24,23,23,23,23
-Croatia,,,,,,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,22,29,30,53,18,19,22,23,23,35,22,22,22
-Afghanistan,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,16,19,31,20,37,23,14,18,15,31,22,24,21
-Ethiopia,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,4,4,8,10,8,9,11,14,12,17,16,22,20
-Suriname,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,6,6,6,3,4,4,7,5,8,2,4,5,19
-Dominican Republic,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,10,13,9,14,15,11,9,10,11,8,13,18,18
-Cook Islands,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,14,20,16,15,13,12,13,16,15,15,24,26,18
-Mali,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,29,22,22,23,22,28,38,27,21,23,21,21,18
-Sierra Leone,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,7,3,2,10,21,15,10,7,7,2,5,13,17
-Uganda,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,11,17,9,9,10,9,44,32,28,21,37,17,15
-UK Virgin Islands,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,4,2,1,4,9,21,4,3,4,11,28,28,15
-Sudan,,,,,,,,,,,,,,,,,,,,,,,,,,62,293,189,77,11,14,21,15
-Namibia,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,9,15,24,27,18,21,33,25,14,13,14,15,14
-El Salvador,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,40,38,28,34,35,25,24,30,24,23,19,26,14
-Seychelles,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,24,15,14,10,16,9,9,11,15,9,10,11,13
-Uzbekistan,,,,,,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,4,4,6,5,4,4,9,6,9,6,11,10,13
-Marshall Islands,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,8,9,7,3,3,7,12,5,9,7,6,11,12
-Norfolk Island,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,21,23,23,19,18,13,12,13,18,17,14,13,12
-Guam,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,19,18,20,22,18,18,17,17,17,16,13,14,12
-Azerbaijan,,,,,,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,10,7,12,16,11,19,13,15,13,10,10,8,11
-American Samoa,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,10,12,7,5,5,8,5,7,11,11,10,9,11
-Reunion,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,20,19,23,39,23,13,17,11,12,14,13,11,11
-Mauritania,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,9,15,17,25,44,21,23,9,6,13,16,12,10
-Costa Rica,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,44,31,62,22,21,9,6,7,10,16,10,13,10
-Eritrea,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,2,2,1,5,7,4,2,4,13,3,5,12,10
-Guatemala,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,34,36,21,17,25,17,13,10,18,9,6,10,9
-Belarus,,,,,,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,3,4,4,4,3,4,6,17,6,4,4,5,9
-Barbados,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,8,10,6,8,7,2,6,26,6,9,169,78,9
-Paraguay,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,5,3,2,2,4,3,4,3,3,4,8,8,8
-Guyana,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,7,1,3,2,6,3,2,11,3,2,5,5,8
-Algeria,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,69,92,42,24,25,5,6,50,16,11,34,15,8
-Togo,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,3,3,3,2,8,2,3,1,4,5,5,13,8
-Libya,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,25,63,37,65,48,64,41,42,18,13,9,6,7
-Malawi,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,6,6,26,22,15,11,39,26,36,29,18,7,7
-Bosnia-Herzegovina,,,,,,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,5,9,7,11,12,7,7,7,7,7,7,8,7
-Guinea,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,31,41,20,26,29,20,6,4,8,5,9,14,7
-Kyrgyzstan,,,,,,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,3,4,1,2,4,4,4,5,4,3,3,2,7
-Tuvalu,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,7,5,5,4,3,3,3,3,9,5,7,4,6
-Albania,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,4,4,4,5,6,6,6,7,7,6,9,8,6
-Angola,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,13,31,17,13,11,13,12,13,11,10,8,25,6
-Democratic Republic of the Congo,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,7,23,3,1,4,7,20,14,8,4,6,6,5
-Bolivia,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,3,9,5,4,3,3,5,4,5,5,6,6,5
-Rwanda,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,1,2,1,4,6,20,5,6,4,3,4,5
-Federated States of Micronesia,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,10,6,6,6,8,10,10,7,8,11,5,6,5
-Cameroon,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,7,14,5,4,6,16,16,21,14,7,9,5,5
-Syria,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,10,15,34,14,25,13,4,5,6,3,4,3,5
-Tunisia,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,14,9,10,3,5,5,8,9,10,11,7,4,5
-Eswatini,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,1,2,1,1,2,2,2,1,1,1,5
-Wallis & Futuna Island,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,8,9,8,8,6,5,5,5,5,5,5,4,4
-Liberia,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,2,3,2,4,4,5,6,16,4,2,4,5,4
-Honduras,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,14,7,4,3,4,3,3,4,3,2,3,2,4
-Armenia,,,,,,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,8,5,2,2,2,3,6,2,3,2,3,3,3
-Puerto Rico,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,20,5,6,8,3,10,5,13,2,5,4,8,3
-Cuba,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,15,7,5,12,9,9,6,7,3,4,3,3,3
-Somalia,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0,0,1,0,1,0,0,3,4,2,3
-Palau,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,2,2,2,1,2,3,1,1,4,3,2,2,2
-Chad,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0,2,0,0,1,1,3,2,1,2,3,3,2
-Gaza Strip and West Bank,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0,0,0,0,0,2,2,2,3,2,2,3,2
-St Lucia,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,3,1,2,1,1,2,2,1,1,2,2,2
-Montenegro,,,,,,,,,,,,,,,,,,,,,,,0,4,5,2,2,1,2,1,4,2,2
-Gabon,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,2,3,2,4,5,4,20,7,2,3,2,2
-Northern Mariana Islands,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,2,1,1,1,1,2,1,3,5,2,4,2
-Djibouti,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,2,4,3,7,4,4,3,3,2,4,4,3,2
-Grenada,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0,0,0,0,0,1,1,3,1,0,1,1,2
-Dominica,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0,0,0,0,0,1,0,1,1,0,1,2,2
-Belize,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,2,0,1,0,1,1,2,0,2,1,3,1
-St Vincent & Grenadines,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,2,3,1,2,2,1,0,1,0,0,1,2,1
-Republic of Congo,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,50,138,77,126,9,11,16,24,25,2,2,2,1
-Polynesia (excl Hawaii) nec,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0,0,0,0,0,0,0,0,0,1,1
-Burundi,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0,0,0,0,0,0,1,3,2,1,1,0,1
-Lesotho,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,1,1,1,1,1,1,2,1,1,1,1,1
-Moldova,,,,,,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,1,1,1,1,1,4,1,1,1,1,1,1
-St Kitts & Nevis,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0,0,0,0,0,0,0,0,1,1,1,1,1
-Antigua & Barbuda,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,1,0,1,1,1,2,0,0,1,1,1,1
-Niue,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,5,2,1,1,0,1,0,1,0,0,1,0,1
-Nicaragua,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0,1,0,2,1,3,4,2,2,1,1
-St Helena,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0,0,0,0,1,0,0,0,0,1,1,0,1
-Cabo Verde,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0,0,0,0,0,0,0,0,0,0,0,0,1
-Central African Republic,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0,0,0,0,0,0,1,1,2,4,1,1,1
-Benin,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,13,1,0,1,1,2,2,1,2,1,1,1
-Equatorial Guinea,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0,1,0,0,1,1,0,1,6,0,0,1,1
-Netherlands Antilles,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,3,5,4,1,1,1,6,1,1,2,1,1,0
-Pitcairn Islands,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0,0,0,1,2,1,1,0,0,0,0,0,0
-Falkland Islands,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0,0,0,0,0,2,0,0,0,0,0
-US Virgin Islands,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,3,2,1,2,1,1,1,0,1,2,0,2,0
-Haiti,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,3,0,0,2,0,1,0,2,2,0,1,0
-Gambia,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0,0,0,0,2,1,1,1,1,0,0,1,0
-Guinea-Bissau,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0,0,0,0,0,0,0,0,0,0,0,0,0
-French Guiana,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,1,1,0,0,0,0,0,0,0,0,0,0
-Niger,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,3,2,0,0,1,1,0,1,0,3,4,0,0
-Turkmenistan,,,,,,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,4,1,0,1,1,1,1,1,1,1,0
-Tajikistan,,,,,,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0,0,0,0,2,2,2,3,0,0,0,0,0
-Turks & Caicos Islands,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0,0,0,0,0,0,0,0,0,0,0,0,0
-St Pierre & Miquelon,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0,0,0,0,0,0,0,0,0,0,0,0,0
-Montserrat,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0,0,0,0,0,0,0,0,0,0,0,2,0
-Anguilla,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,0,0,0,0,0,0,0,0,0,0,0,0
-Sao Tome & Principe,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0,0,0,0,0,0,0,0,0,0,0,0,0
-Democratic People's Republic of Korea,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1,25,22,2,12,1,4,4,8,0,0,0,0
-Comoros,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0,0,0,0,0,0,0,0,0,0,0,0,0
-Western Sahara,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0,0,0,0,0,0,0,0,0,0,0,0,0
-Adelie Land (France),na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0,0,0,0,0,0,0,0,0,0,0,0,0
-Antarctica,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-Christmas Island,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-Cocos Keeling Islands,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-French Antilles,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-French Southern Territories,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-Midway Island,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-US Pacific Islands,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na
-South Sudan,,,,,,,,,,,,,,,,,,,,,,,,,,1,na,na,na,na,na,na,na
-Former Sudan,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,141,254,313,185,203,193,,,,,,,
-Other,"3,197","3,038","3,159","3,591","4,732","4,678","5,073","4,875","5,859","6,516","9,311","7,174","6,429","8,617","8,884","7,936","7,388","7,361","8,483","10,703","8,016","8,944","5,859","6,613","6,954","7,198","7,282","7,365","6,152","6,518","6,936","6,833","7,442"
+Year,Value
+1987,43399
+1988,49254
+1989,53699
+1990,59047
+1991,64331
+1992,69061
+1993,75394
+1994,78928
+1995,88213
+1996,93661
+1997,103305
+1998,104338
+1999,106953
+2000,137748
+2001,149277
+2002,147619
+2003,138765
+2004,149999
+2005,174486
+2006,202869
+2007,221839
+2008,281833
+2009,253820
+2010,288896
+2011,319434
+2012,306170
+2013,323363
+2014,332203
+2015,323234
+2016,337076
+2017,386948
+2018,438286
+2019,492633
