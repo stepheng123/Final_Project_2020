@@ -31,3 +31,8 @@ In 2019, 30% of the Australian resident population, or 7,529,570 people, were bo
 ## Olympics Visuals
 
 The story below shows the story of Australia's Olympic history. The country has developed a keen interest in leading the world with its sporting capabilities. The dataset was obtained from wikipedia and translated into an interesting storyline divided by time, gender, type and quantity of win.
+
+
+## The Weather Story
+
+Based on a the weather data sourced from Kaggle, the team is able to paint an interesting picture of Australia's weather map. It consists of showing the average rainfall per state, maximum temperature per state, the outlook of wind for each state, the average of solar hours in each state and the wettest day for each state. 
