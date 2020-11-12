@@ -21,3 +21,13 @@ The bar racing chart shows the story of Australia's economy since 1987. It shows
 This chart shows the prediction of Australia's economy using Machine Learning. The basis of the data is using Australia's import and export growth since 1991. Using linear regression, the export and import for Australia is predicted over the near term (5 years) and long term (10 years). 
 
 A secondary machine learning tool was also used to support the primary prediction. It is clear that the export for Australia will outgrow the import by year 2030 significantly. This is encouraging for the financial health of the country. 
+
+
+## Bubble Map - Replace with "Origin of Australians"
+
+In 2019, 30% of the Australian resident population, or 7,529,570 people, were born overseas. This is a Bubble Map displays the orginal place of birth of those people.
+
+
+## Olympics Visuals
+
+The story below shows the story of Australia's Olympic history. The country has developed a keen interest in leading the world with its sporting capabilities. The dataset was obtained from wikipedia and translated into an interesting storyline divided by time, gender, type and quantity of win.
