@@ -39,7 +39,7 @@ The team decided to capitalise and expand the previously developed website. For 
 
 The team initially explored the use of Naive-Bayes model to ascertain the type of feedback collected from airbnb.com. The team postulated that the quality and quantity of feedback will have a correlation with an area being favoured positively or negatively for tourism. The initial use of this was unsuccessful. The team learnt that it required to train the model based on a highly varied and unreliable dataset. There is also the issue of some reviews may not be written in grammatically correct English. 
 
-Based on this, the team decided to pivot to using the economics data. Using linear regression, the team was able to predict to a degree the economic growth of Australia. However, this dataset was homogenous to pre-pandemic era. The team believed it is very challenging to arrive at the same conclusion post-pandemic and without a reasonable correction factor. 
+Based on this, the team decided to pivot to using the economics data. Using linear regression, the team was able to predict to a degree the economic growth of Australia. However, this dataset was homogenous to pre-pandemic era. The team believed it is very challenging to arrive at the same conclusion post-pandemic and without a reasonable correction factor. The team also experimented with the use of Excel for forecasting. With the same dataset, Excel predicted the same export for Australia in 2030. However, there was a sizeable disparity for import between both the tools. 
 
 The team also experimented with the idea of comparing airbnb location versus it's price. The team was curious to find out if more northern or southern a location had an impact on its price.
 
@@ -49,9 +49,23 @@ Finally, the team also experimented with the hypothesis if number of reviews dic
 
 The olympics dataset was quite exciting. Initially, the team attempted to webscrape this from a wikipedia site. However, due to some formatting challenges, the team found the same data available from Kaggle. Using this dataset, the team then explored many different correlation. The team used the Tableau to visualise the correlation of countries and their achievements, gender and timeline of Australian medals. This was then extracted and inserted into the website. 
 
+Further to this, the team obtained the dataset for weather in Australia. Based on this dataset, the team had insight into temperature, wind speed, solar and rain for weather stations in Australia. The team was able to paint a map of Australia based on its weather information. This gives the reader a very quick understanding on the weather layout of Australia. 
+
 ## HTML, JavaScript, CSS
 
-Based the team's previous experience, the team had an existing website it could improve upon. Within this website, the team changed the look-and-feel of the site. It added more pages to explain the new stories on tourism and sports. 
+Based the team's previous experience, the team had an existing website it could improve upon. Within this website, the team changed the look-and-feel of the site. It added more pages to explain the new stories on tourism and sports. The team also removed some pages that had lesser relevance for this project. 
+
+## Barchart Racing
+
+Based on the previous project, the team included the barchart race. This section was useful for visualising the growth of Australia's exports since 1987. It provides a captivating story of 30 years in 30 seconds. 
+
+## D3.Js
+
+From the previous project, the team also believed it was meaningful to maintain the charts and graphs dissecting Australia's economy visually. These resulted in a page which could showcase the top importer and exporter for Australia in any given year from 1987. It also showcased the bilateral strength of a foreign nation to Australia. 
+
+
+
+
 
 
 
